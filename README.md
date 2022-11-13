@@ -18,7 +18,6 @@ Create a class called Singer with constructors with the following fields and met
 6. Have a static field totalPerformances to the Singer class which counts all the performances of the Singers.
 7. Overload the performForAudience method such that Singers can also perform with another Singer and the profit will be split between the two of them.
 
-
 ## Flowchart
 ![qownnotes-media-RIrEXa](README.jpg)
 
