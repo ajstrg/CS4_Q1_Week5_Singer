@@ -1,6 +1,6 @@
 # CS4_Q1_Week5_Singer
 
-TASK
+Task
 
 Create a class called Singer with constructors with the following fields and methods:
 - name - String
@@ -20,7 +20,7 @@ Create a class called Singer with constructors with the following fields and met
 
 ----
 
-SAMPLE RUN 1
+Sample Run
 
 Welcome to our Singer Registry System
 
